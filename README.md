@@ -18,11 +18,13 @@
 
 ![Gambar](Screenshot/MotorDependensi.jpg)
 
+
 ![Gambar](Screenshot/MainMotorDependensi.jpg)
 
 4.
 
 ![Gambar](Screenshot/MotorAsosiasi.jpg)
+
 
 ![Gambar](Screenshot/MainMotorAsosiasi.jpg)
 
@@ -30,14 +32,19 @@
 
 ![Gambar](Screenshot/MotorAgregasi.jpg)
 
+
 ![Gambar](Screenshot/MainMotorAgregasi.jpg)
 
 6. 
 
 ![Gambar](Screenshot/MotorKomposisi.jpg)
 
+
 ![Gambar](Screenshot/MainMotorKomposisi.jpg)
 
 7.
 
 ![Gambar](Screenshot/HasilProgram.jpg)
+
+
+![Gambar](Screenshot/HasilProgram2.jpg)
